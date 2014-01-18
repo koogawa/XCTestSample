@@ -1,0 +1,4 @@
+XCTestSample
+============
+
+XCTest使ってみたなう
